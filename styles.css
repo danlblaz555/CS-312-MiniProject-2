@@ -20,17 +20,11 @@ div {
     text-align: center;
 }
 
-div h3{
-    color: red;
-}
-
 .header{
     grid-area: header;
     color:black;
 background-color: #108554;
 }
-
-
 
 .main-content{
     grid-area: main;
@@ -38,8 +32,6 @@ background-color: #108554;
     justify-content: center;
     text-align: center;
 }
-
-
 
 .footer{
     grid-area: footer;
